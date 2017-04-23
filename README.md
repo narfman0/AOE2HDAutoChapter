@@ -12,6 +12,6 @@ Run bot.au3 by double clicking like an executable. Note: in your system tray the
 
 The bot starts PAUSED. To unpause, press the F5 key. This toggles, so pause again with F5 and so on.
 
-If you wish to adjust the itnerval, open bot.au3 and note the '5'. It's not an incredible complex file :)
+If you wish to adjust the interval, open bot.au3 and note the '5'. It's not an incredibly complex file :)
 
 Enjoy! Chapter should be saved every <period> minutes! Hurrah!
